@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Lorenzo Perini</title>
+    <link>https://lorenzoperini.github.io/publication/</link>
+      <atom:link href="https://lorenzoperini.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lorenzoperini.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://lorenzoperini.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Operational, Uncertainty-Aware, and Reliable Anomaly Detection</title>
+      <link>https://lorenzoperini.github.io/publication/phdthesis/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning with a Reject Option: A survey</title>
+      <link>https://lorenzoperini.github.io/publication/mach_rejection/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/mach_rejection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Anomaly Detection with Rejection</title>
+      <link>https://lorenzoperini.github.io/publication/neurips23/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/neurips23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Evasion Attacks in Deployed Tree Ensembles</title>
+      <link>https://lorenzoperini.github.io/publication/ecml2023a/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/ecml2023a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Learning from Active Noisy Soft Labels for Anomaly Detection</title>
+      <link>https://lorenzoperini.github.io/publication/ecml2023b/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/ecml2023b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Positive and Unlabeled Multi-Instance Bags in Anomaly Detection</title>
+      <link>https://lorenzoperini.github.io/publication/kdd23/</link>
+      <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/kdd23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Detection</title>
+      <link>https://lorenzoperini.github.io/publication/icml23/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/icml23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-domain Active Learning for Semi-supervised Anomaly Detection</title>
+      <link>https://lorenzoperini.github.io/publication/ecml2022/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/ecml2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferring the Contamination Factor between Anomaly Detection Domains by Shape Similarity</title>
+      <link>https://lorenzoperini.github.io/publication/aaai22/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/aaai22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Hyperparameter Tuning on the Comparative Evaluation of Unsupervised Anomaly Detection Methods</title>
+      <link>https://lorenzoperini.github.io/publication/odd21/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/odd21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Ranking Stability Measure for Quantifying the Robustness of Anomaly Detection Methods</title>
+      <link>https://lorenzoperini.github.io/publication/edml20/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/edml20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the Confidence of Anomaly Detectors in Their Example-Wise Predictions</title>
+      <link>https://lorenzoperini.github.io/publication/ecml20/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/ecml20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class Prior Estimation in Active Positive and Unlabeled Learning</title>
+      <link>https://lorenzoperini.github.io/publication/ijcai20/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/ijcai20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

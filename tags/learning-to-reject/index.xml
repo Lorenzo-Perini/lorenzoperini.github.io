@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning to Reject | Lorenzo Perini</title>
+    <link>https://lorenzoperini.github.io/tags/learning-to-reject/</link>
+      <atom:link href="https://lorenzoperini.github.io/tags/learning-to-reject/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning to Reject</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lorenzoperini.github.io/img/icon-192.png</url>
+      <title>Learning to Reject</title>
+      <link>https://lorenzoperini.github.io/tags/learning-to-reject/</link>
+    </image>
+    
+    <item>
+      <title>Operational, Uncertainty-Aware, and Reliable Anomaly Detection</title>
+      <link>https://lorenzoperini.github.io/publication/phdthesis/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Anomaly Detection with Rejection</title>
+      <link>https://lorenzoperini.github.io/publication/neurips23/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/neurips23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Allocate your Label Budget? Choosing between Active Learning and Learning to Reject in Anomaly Detection</title>
+      <link>https://lorenzoperini.github.io/talk/aaai/</link>
+      <pubDate>Mon, 13 Feb 2023 13:30:00 +0100</pubDate>
+      <guid>https://lorenzoperini.github.io/talk/aaai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

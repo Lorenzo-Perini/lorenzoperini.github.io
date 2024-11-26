@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kilian Hendrickx | Lorenzo Perini</title>
+    <link>https://lorenzoperini.github.io/authors/kilian-hendrickx/</link>
+      <atom:link href="https://lorenzoperini.github.io/authors/kilian-hendrickx/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kilian Hendrickx</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lorenzoperini.github.io/img/icon-192.png</url>
+      <title>Kilian Hendrickx</title>
+      <link>https://lorenzoperini.github.io/authors/kilian-hendrickx/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning with a Reject Option: A survey</title>
+      <link>https://lorenzoperini.github.io/publication/mach_rejection/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/mach_rejection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

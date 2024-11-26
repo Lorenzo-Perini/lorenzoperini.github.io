@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonas Soenen | Lorenzo Perini</title>
+    <link>https://lorenzoperini.github.io/authors/jonas-soenen/</link>
+      <atom:link href="https://lorenzoperini.github.io/authors/jonas-soenen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonas Soenen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lorenzoperini.github.io/img/icon-192.png</url>
+      <title>Jonas Soenen</title>
+      <link>https://lorenzoperini.github.io/authors/jonas-soenen/</link>
+    </image>
+    
+    <item>
+      <title>The Effect of Hyperparameter Tuning on the Comparative Evaluation of Unsupervised Anomaly Detection Methods</title>
+      <link>https://lorenzoperini.github.io/publication/odd21/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/odd21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

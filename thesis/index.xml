@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis Advisor | Lorenzo Perini</title>
+    <link>https://lorenzoperini.github.io/thesis/</link>
+      <atom:link href="https://lorenzoperini.github.io/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thesis Advisor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://lorenzoperini.github.io/img/icon-192.png</url>
+      <title>Thesis Advisor</title>
+      <link>https://lorenzoperini.github.io/thesis/</link>
+    </image>
+    
+    <item>
+      <title>[2019/2020] Designing a Stability Metric for Assessing the Robustness of Anomaly Rankings</title>
+      <link>https://lorenzoperini.github.io/thesis/1year/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/thesis/1year/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2020/2021] Do you know the answer? Taking into account the user uncertainty in active learning</title>
+      <link>https://lorenzoperini.github.io/thesis/2year/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/thesis/2year/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2020/2021] Reliability measure in the Active Learning querying phase</title>
+      <link>https://lorenzoperini.github.io/thesis/2year/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/thesis/2year/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2021/2022] Adaptive semi-supervised anomaly detection with any unsupervised prior</title>
+      <link>https://lorenzoperini.github.io/thesis/3year/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/thesis/3year/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2021/2022] Practice makes perfect? Detecting anomalies by learning from imperfect user’s feedback</title>
+      <link>https://lorenzoperini.github.io/thesis/3year/third/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/thesis/3year/third/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2021/2022] To ask or to abstain, what is the best strategy? Finding the best trade-off between Active Learning and Learning to Reject</title>
+      <link>https://lorenzoperini.github.io/thesis/3year/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/thesis/3year/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2022/2023] It is likely not to be so likely! Semi-supervised calibration of anomaly scores</title>
+      <link>https://lorenzoperini.github.io/thesis/4year/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/thesis/4year/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2022/2023] This is critical and a lot is at stake. How can I trust the model? Quantifying the model uncertainty in anomaly detection</title>
+      <link>https://lorenzoperini.github.io/thesis/4year/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/thesis/4year/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2023/2024] Better be cautious when asking hard questions! Developing an active learning strategy for semi-supervised models with rejection.</title>
+      <link>https://lorenzoperini.github.io/thesis/5year/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/thesis/5year/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2023/2024] It may not be wrong but is definitely more anomalous than the others! Anomaly Detection with User Feedback Ranking</title>
+      <link>https://lorenzoperini.github.io/thesis/5year/third/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/thesis/5year/third/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[2023/2024] What do slot machines have in common with Active Learning? Finding the high-reward instances in Multi-Instance Learning.</title>
+      <link>https://lorenzoperini.github.io/thesis/5year/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/thesis/5year/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

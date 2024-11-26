@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-Armed Bandit | Lorenzo Perini</title>
+    <link>https://lorenzoperini.github.io/tags/multi-armed-bandit/</link>
+      <atom:link href="https://lorenzoperini.github.io/tags/multi-armed-bandit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-Armed Bandit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lorenzoperini.github.io/img/icon-192.png</url>
+      <title>Multi-Armed Bandit</title>
+      <link>https://lorenzoperini.github.io/tags/multi-armed-bandit/</link>
+    </image>
+    
+    <item>
+      <title>Multi-domain Active Learning for Semi-supervised Anomaly Detection</title>
+      <link>https://lorenzoperini.github.io/publication/ecml2022/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/ecml2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

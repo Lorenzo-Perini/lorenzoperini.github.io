@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tree ensembles | Lorenzo Perini</title>
+    <link>https://lorenzoperini.github.io/tags/tree-ensembles/</link>
+      <atom:link href="https://lorenzoperini.github.io/tags/tree-ensembles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tree ensembles</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lorenzoperini.github.io/img/icon-192.png</url>
+      <title>Tree ensembles</title>
+      <link>https://lorenzoperini.github.io/tags/tree-ensembles/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Evasion Attacks in Deployed Tree Ensembles</title>
+      <link>https://lorenzoperini.github.io/publication/ecml2023a/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/ecml2023a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

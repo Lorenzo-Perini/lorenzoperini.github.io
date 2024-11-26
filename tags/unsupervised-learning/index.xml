@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unsupervised Learning | Lorenzo Perini</title>
+    <link>https://lorenzoperini.github.io/tags/unsupervised-learning/</link>
+      <atom:link href="https://lorenzoperini.github.io/tags/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unsupervised Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lorenzoperini.github.io/img/icon-192.png</url>
+      <title>Unsupervised Learning</title>
+      <link>https://lorenzoperini.github.io/tags/unsupervised-learning/</link>
+    </image>
+    
+    <item>
+      <title>Operational, Uncertainty-Aware, and Reliable Anomaly Detection</title>
+      <link>https://lorenzoperini.github.io/publication/phdthesis/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Anomaly Detection with Rejection</title>
+      <link>https://lorenzoperini.github.io/publication/neurips23/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/neurips23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Detection</title>
+      <link>https://lorenzoperini.github.io/publication/icml23/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/icml23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferring the Contamination Factor between Anomaly Detection Domains by Shape Similarity</title>
+      <link>https://lorenzoperini.github.io/publication/aaai22/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/aaai22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

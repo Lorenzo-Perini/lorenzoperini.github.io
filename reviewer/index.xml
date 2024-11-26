@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviewers | Lorenzo Perini</title>
+    <link>https://lorenzoperini.github.io/reviewer/</link>
+      <atom:link href="https://lorenzoperini.github.io/reviewer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reviewers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://lorenzoperini.github.io/img/icon-192.png</url>
+      <title>Reviewers</title>
+      <link>https://lorenzoperini.github.io/reviewer/</link>
+    </image>
+    
+    <item>
+      <title>AAAI Conference on Artificial Intelligence (AAAI-21, AAAI-22)</title>
+      <link>https://lorenzoperini.github.io/reviewer/aaai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/reviewer/aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD-21, KDD-23)</title>
+      <link>https://lorenzoperini.github.io/reviewer/kdd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/reviewer/kdd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial Board Member of Machine Learning Journal (MLJ)</title>
+      <link>https://lorenzoperini.github.io/reviewer/mlj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/reviewer/mlj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-20, ECML-22)</title>
+      <link>https://lorenzoperini.github.io/reviewer/ecml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/reviewer/ecml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Conference on Artificial Intelligence and Statistics (AISTATS-23)</title>
+      <link>https://lorenzoperini.github.io/reviewer/aistats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/reviewer/aistats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal of Artificial Intelligence Research (JAIR)</title>
+      <link>https://lorenzoperini.github.io/reviewer/jair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/reviewer/jair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Information Processing Systems (NeurIPS-24)</title>
+      <link>https://lorenzoperini.github.io/reviewer/neurips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/reviewer/neurips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIAM International Conference on Data Mining (SDM-22)</title>
+      <link>https://lorenzoperini.github.io/reviewer/sdm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/reviewer/sdm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

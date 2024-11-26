@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connor Galvin | Lorenzo Perini</title>
+    <link>https://lorenzoperini.github.io/authors/connor-galvin/</link>
+      <atom:link href="https://lorenzoperini.github.io/authors/connor-galvin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Connor Galvin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lorenzoperini.github.io/img/icon-192.png</url>
+      <title>Connor Galvin</title>
+      <link>https://lorenzoperini.github.io/authors/connor-galvin/</link>
+    </image>
+    
+    <item>
+      <title>A Ranking Stability Measure for Quantifying the Robustness of Anomaly Detection Methods</title>
+      <link>https://lorenzoperini.github.io/publication/edml20/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://lorenzoperini.github.io/publication/edml20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
